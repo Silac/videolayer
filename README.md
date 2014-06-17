@@ -11,3 +11,5 @@ In this directory:
 - an example HTML file that uses the plugin
 - the demo videos and captions from the site, renamed to make use of the plugin as easy as possible (just paste the code
 from the site, you don't have to change the sources).
+
+For more information about this plugin, go to http://www.gordonlambot.be/tfe/site
